@@ -53,6 +53,6 @@ Stock Analysis/
 To run the dashboard:
 streamlit run app.py
 
-#Conclusion
+##Conclusion
 This project provides insights into stock performance, risk, and trends using data-driven techniques.
  
